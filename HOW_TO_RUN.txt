@@ -8,3 +8,5 @@ Ejemplo:
 $ mlflow run --env-manager=local -e knn -P n_neighbors=5 .
 $ mlflow run --env-manager=local --entry-poiint elasticnet --param-list alpha=0.5 --param-list l1_ratio=0.5 .
 
+
+
